@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    background-image: url(..\Documents\TrabalhoSemestralAPMDA\Imagem_capa.png);
+    height: 100vh;
+}
+
+h1 {
+    padding: 50rem;
+    padding: 0rem;
+    color: #A88D02;
+    font-family: Joti One;
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+span {
+    padding: 50rem;
+    padding: 15rem;
+    color: #A88D02;
+    font-family: Joti One;
+    font-size: 2.5rem;
+    font-weight: 900;}
